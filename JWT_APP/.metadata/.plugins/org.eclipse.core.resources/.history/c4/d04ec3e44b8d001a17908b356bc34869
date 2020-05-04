@@ -1,5 +1,0 @@
-package com.evolvus.springsecurityjwt.service;
-
-public class MyUserDetailsService {
-
-}
