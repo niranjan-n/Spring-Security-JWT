@@ -1,0 +1,9 @@
+
+l
+java:S1854":Remove this useless assignment to local variable "claims".(ã÷€–8ËĞ»Ø.H\RMAJORZ
+CODE_SMELL
+N
+java:S2326"T is not used in the method.(÷êÌ8ËĞ»Ø.H]RMAJORZ
+CODE_SMELL
+‹	java:S116"URename this field "SECRET_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ‡˜¾ùÿÿÿÿ8ËĞ»Ø.H[RMINORZ
+CODE_SMELL

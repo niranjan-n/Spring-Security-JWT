@@ -1,0 +1,5 @@
+package com.evolvus.springsecurityjwt.domain;
+
+public class AuthenticationRequest {
+
+}

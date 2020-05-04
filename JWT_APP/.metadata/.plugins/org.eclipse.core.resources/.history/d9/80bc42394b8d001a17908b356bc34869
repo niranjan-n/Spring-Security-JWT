@@ -1,0 +1,5 @@
+package com.evolvus.springsecurityjwt.config;
+
+public class SecurityConfig {
+
+}

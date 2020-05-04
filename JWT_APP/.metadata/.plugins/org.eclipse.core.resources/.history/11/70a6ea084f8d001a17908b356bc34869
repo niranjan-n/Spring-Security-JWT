@@ -1,0 +1,5 @@
+package com.evolvus.springsecurityjwt.util;
+
+public class JWTUtil {
+
+}
